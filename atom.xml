@@ -4,7 +4,7 @@
   <title>Jason Evans</title>
   <link href="http://jasonevans1.github.com/atom.xml" rel="self"/>
   <link href="http://jasonevans1.github.com/"/>
-  <updated>2011-09-05T15:43:38-05:00</updated>
+  <updated>2011-09-05T16:20:17-05:00</updated>
   <id>http://jasonevans1.github.com/</id>
   <author>
     <name>Jason Evans</name>
@@ -19,14 +19,33 @@
     <id>http://jasonevans1.github.com/blog/2011/09/05/active-projects</id>
     <content type="html">&lt;p&gt;Below are the github projects I have worked on in the past 3 months.&lt;/p&gt;
 
-&lt;h4&gt;Projects&lt;/h4&gt;
+&lt;h2&gt;Projects&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jasonevans1/vagrant-magento&quot;&gt;Vagrant Magento&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jasonevans1/iodocs&quot;&gt;iodocs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jasonevans1/Aoe_Scheduler&quot;&gt;Aoe Scheduler&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/jasonevans1/Aoe_Scheduler&quot;&gt;Aoe Scheduler&lt;/a&gt;&lt;/h3&gt;
 
+&lt;p&gt;This is a fork of the Magento extension that adds a scheduler interface to Magento's admin panel.  &lt;a href=&quot;http://www.fabrizio-branca.de/magento-cron-scheduler.html&quot;&gt;More info on Aoe_Scheduler&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I have forked this extension to support adding and updating tasks.  I have also added support for setting optional parameters with a task.  I have submitted a pull request to Fabrizio Branca.  He has asked from some changes that I will be implementing in the coming weeks.&lt;/p&gt;
+
+&lt;p&gt;I think this extension will provide a needed feature in Magento.  If you have any suggestions or comments please send me a message in github.  Here is my github profile &lt;a href=&quot;https://github.com/jasonevans1&quot;&gt;@jasonevans1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://github.com/jasonevans1/vagrant-magento&quot;&gt;Vagrant Magento&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;I created this project to learn Vagrant and Puppet.  Since I do Magento development daily, I thought it would be useful to have a Vagrant box with Magento installed.
+This project provides a foundation for developing with Magento Commerce in a Vagrant box. The machine is based on CentOS 5.5. It contains puppet modules for provisioning a server with Magento installed.&lt;br/&gt;
+List of installed software.
+* Magento Community Edition - 1.5.1.0
+* Mysql
+* Zend Server Community Edition - PHP 5.3
+* xdebug
+* phpunit
+Note: I intend to update this project to install the latest version of Magento with 1.6.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://github.com/jasonevans1/iodocs&quot;&gt;iodocs&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;This is a fork of the iodocs project from Mashery.  I have added support for basic username and password auth.&lt;/p&gt;
+
+&lt;p&gt;I forked this project to learn more about node.js.  I am very interested in learning more about node.js.&lt;/p&gt;
 </content>
   </entry>
   
