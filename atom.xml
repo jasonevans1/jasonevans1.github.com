@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Jason Evans Github Blog</title>
+  <title>Jason Evans</title>
   <link href="http://jasonevans1.github.com/atom.xml" rel="self"/>
   <link href="http://jasonevans1.github.com/"/>
-  <updated>2011-09-05T15:18:23-05:00</updated>
+  <updated>2011-09-05T15:35:32-05:00</updated>
   <id>http://jasonevans1.github.com/</id>
   <author>
     <name>Jason Evans</name>
@@ -17,7 +17,10 @@
     <link href="http://jasonevans1.github.com/blog/2011/09/05/active-projects/"/>
     <updated>2011-09-05T14:33:00-05:00</updated>
     <id>http://jasonevans1.github.com/blog/2011/09/05/active-projects</id>
-    <content type="html">
+    <content type="html">&lt;p&gt;Below are the github projects I have worked on in the past 3 months.&lt;br/&gt;
+* &lt;a href=&quot;Vagrant%20Magento&quot;&gt;https://github.com/jasonevans1/vagrant-magento&lt;/a&gt;
+* &lt;a href=&quot;iodocs&quot;&gt;https://github.com/jasonevans1/iodocs&lt;/a&gt;
+* &lt;a href=&quot;Aoe%20Scheduler&quot;&gt;https://github.com/jasonevans1/Aoe_Scheduler&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
   
