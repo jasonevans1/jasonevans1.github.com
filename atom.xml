@@ -4,13 +4,22 @@
   <title>Jason Evans</title>
   <link href="http://jasonevans1.github.com/atom.xml" rel="self"/>
   <link href="http://jasonevans1.github.com/"/>
-  <updated>2011-09-05T16:20:17-05:00</updated>
+  <updated>2011-09-07T07:03:09-05:00</updated>
   <id>http://jasonevans1.github.com/</id>
   <author>
     <name>Jason Evans</name>
     
   </author>
 
+  
+  <entry>
+    <title>Vagrant Magento Update</title>
+    <link href="http://jasonevans1.github.com/blog/2011/09/07/vagrant-magento-update/"/>
+    <updated>2011-09-07T06:58:00-05:00</updated>
+    <id>http://jasonevans1.github.com/blog/2011/09/07/vagrant-magento-update</id>
+    <content type="html">&lt;p&gt;I have updated the (https://github.com/jasonevans1/vagrant-magento)[vagrant-magento project] to install Magento 1.6.0.0.   Enjoy and let me know of any changes you would like to see.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Active Projects</title>
