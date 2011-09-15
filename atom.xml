@@ -4,13 +4,24 @@
   <title>Jason Evans</title>
   <link href="http://jasonevans1.github.com/atom.xml" rel="self"/>
   <link href="http://jasonevans1.github.com/"/>
-  <updated>2011-09-07T07:03:09-05:00</updated>
+  <updated>2011-09-15T16:17:33-05:00</updated>
   <id>http://jasonevans1.github.com/</id>
   <author>
     <name>Jason Evans</name>
     
   </author>
 
+  
+  <entry>
+    <title>Aoe Scheduler Feature - Delete a Task</title>
+    <link href="http://jasonevans1.github.com/blog/2011/09/15/aoe-scheduler-feature-delete-a-task/"/>
+    <updated>2011-09-15T16:09:00-05:00</updated>
+    <id>http://jasonevans1.github.com/blog/2011/09/15/aoe-scheduler-feature-delete-a-task</id>
+    <content type="html">&lt;p&gt;I have added the feature to delete a task to the Aoe Scheduler Magento extension.  If the task is defined in the core_config_data table you will be able to delete it now.&lt;/p&gt;
+
+&lt;p&gt;Next, I will work on adding support for creating tasks with models that are not defined in the crontab configuration.  Questions or comments are welcome.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Vagrant Magento Update</title>
